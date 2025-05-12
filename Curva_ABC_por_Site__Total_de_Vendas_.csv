@@ -1,0 +1,4 @@
+site,quantity,total_price,percent_total_sales,percent_cumulative_sales,abc_class
+Shopee,64,5620,35.279347143753924,35.279347143753924,A
+Etsy,56,5190,32.580037664783426,67.85938480853736,A
+AliExpress,58,5120,32.14061519146265,100.0,C
